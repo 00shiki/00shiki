@@ -2,7 +2,7 @@
 
 - My name is Ahmad Luhur Pakerti, but you can call me Adi.
 - I’m currently majoring Computer Science Degree at [State University of Jakarta](https://www.unj.ac.id).
-- I’m currently learning Mobile Development at [Bangkit Academy](https://bangkit.academy).
+- I’m Mobile Development Graduate at [Bangkit Academy](https://bangkit.academy).
 - You can reach me out on my [Linkedin](https://www.linkedin.com/in/00shiki/) and [Instagram](https://www.instagram.com/ahmadluhur_/).
 
 ## Tech Stack
