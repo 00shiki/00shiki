@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - My name is Ahmad Luhur Pakerti, but you can call me Adi.
-- Working at [TIX ID](https://www.tix.id/) 🎥
+- Currently looking for Backend Engineer role
 - You can reach me out on my [Linkedin](https://www.linkedin.com/in/00shiki/) and [Instagram](https://www.instagram.com/ahmadluhur_/).
 
 ## Tech Stack
